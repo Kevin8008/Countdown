@@ -130,7 +130,8 @@ color: #FFFFFF;
 transition-duration: 0.6s;
 }
 .button:hover {
-    background-color:#8e89f5
+    background-color:#a4a0f3;
+    cursor: pointer;
 }
 canvas{
   position: absolute;
