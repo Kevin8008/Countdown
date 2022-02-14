@@ -132,3 +132,8 @@ transition-duration: 0.6s;
 .button:hover {
     background-color:#8e89f5
 }
+canvas{
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
